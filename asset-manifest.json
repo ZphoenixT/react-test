@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ZphoenixT/react-test/static/css/main.7f841f31.css",
-    "main.js": "/ZphoenixT/react-test/static/js/main.a7a7d78c.js",
-    "index.html": "/ZphoenixT/react-test/index.html",
-    "main.7f841f31.css.map": "/ZphoenixT/react-test/static/css/main.7f841f31.css.map",
-    "main.a7a7d78c.js.map": "/ZphoenixT/react-test/static/js/main.a7a7d78c.js.map"
+    "main.css": "/react-test/static/css/main.7f841f31.css",
+    "main.js": "/react-test/static/js/main.a7a7d78c.js",
+    "index.html": "/react-test/index.html",
+    "main.7f841f31.css.map": "/react-test/static/css/main.7f841f31.css.map",
+    "main.a7a7d78c.js.map": "/react-test/static/js/main.a7a7d78c.js.map"
   },
   "entrypoints": [
     "static/css/main.7f841f31.css",
