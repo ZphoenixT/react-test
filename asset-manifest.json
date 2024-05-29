@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ZphoenixT/react-test.git/static/css/main.7f841f31.css",
+    "main.js": "/ZphoenixT/react-test.git/static/js/main.a7a7d78c.js",
+    "index.html": "/ZphoenixT/react-test.git/index.html",
+    "main.7f841f31.css.map": "/ZphoenixT/react-test.git/static/css/main.7f841f31.css.map",
+    "main.a7a7d78c.js.map": "/ZphoenixT/react-test.git/static/js/main.a7a7d78c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f841f31.css",
+    "static/js/main.a7a7d78c.js"
+  ]
+}
